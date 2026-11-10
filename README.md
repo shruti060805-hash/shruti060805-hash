@@ -202,13 +202,28 @@ A growing collection of mechanical design experiments.
 
 *My development activity and open-source journey.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=shruti060805-hash&show_icons=true&hide_border=true&bg_color=100817&title_color=FF2E93&icon_color=B84CFF&text_color=F8D9EC&ring_color=FF2E93&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti060805-hash&layout=compact&hide_border=true&bg_color=100817&title_color=FF2E93&text_color=F8D9EC" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=100817&ring=FF2E93&fire=B84CFF&currStreakLabel=FF77B7&sideLabels=FF77B7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA5C9" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=100817&ring=FF2E93&fire=B84CFF&currStreakLabel=FF77B7&sideLab
+<!-- NEON PINK GITHUB STATISTICS -->
+
+<h2 align="center">📊 DEVELOPMENT STATISTICS</h2>
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    width="49%"
+    alt="Top Programming Languages"
+  />
+</p>
+els=FF77B7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA5C9" width="80%"/>
 
 </div>
 
