@@ -223,7 +223,7 @@ A growing collection of mechanical design experiments.
     alt="Top Programming Languages"
   />
 </p>
-els=FF77B7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA5C9" width="80%"/>
+
 
 </div>
 
