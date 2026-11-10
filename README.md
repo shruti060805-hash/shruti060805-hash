@@ -1,8 +1,11 @@
+
 <div align="center">
+
+<!-- ============== NEON HEADER ============== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:100817,30:29102F,65:8E24AA,100:FF2E93&text=SHRUTI%20KUMARI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%20%7C%20BEYOND%20THE%20ORDINARY&descSize=13&descAlignY=60&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2800&pause=900&color=FF2E93&center=true&vCenter=true&width=850&lines=MECHANICAL+ENGINEERING+STUDENT;ROBOTICS+%26+AUTOMATION+ENTHUSIAST;EXPLORING+AI+%26+INTELLIGENT+SYSTEMS;DESIGNING.+BUILDING.+INNOVATING." alt="Animated title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2800&pause=900&color=FF2E93&center=true&vCenter=true&width=850&lines=MECHANICAL+ENGINEERING+STUDENT;ROBOTICS+%26+AUTOMATION+ENTHUSIAST;EXPLORING+AI+%26+INTELLIGENT+SYSTEMS;DESIGNING.+BUILDING.+INNOVATING." alt="Animated introduction"/>
 
 <br/>
 
@@ -19,6 +22,8 @@
 </div>
 
 ---
+
+<!-- ============== ABOUT ME ============== -->
 
 <div align="center">
 
@@ -50,6 +55,8 @@ class Shruti:
 ```
 
 ---
+
+<!-- ============== TECH STACK ============== -->
 
 <div align="center">
 
@@ -89,11 +96,13 @@ class Shruti:
 
 ---
 
+<!-- ============== PROJECTS ============== -->
+
 <div align="center">
 
 # 🚀 PROJECTS IN MY ORBIT
 
-*Engineering ideas moving from concept to reality.*
+*From engineering concepts to working prototypes.*
 
 </div>
 
@@ -103,7 +112,7 @@ class Shruti:
 
 ### 🤖 01 — LINE FOLLOWER ROBOT
 
-**Autonomous Navigation**
+**Autonomous Navigation System**
 
 An Arduino-based robot designed to detect and follow a predefined path.
 
@@ -113,9 +122,12 @@ An Arduino-based robot designed to detect and follow a predefined path.
 - TB6612FNG motor driver
 - N20 motors
 
+**Focus:** Embedded systems and autonomous navigation.
+
 `ROBOTICS` `EMBEDDED SYSTEMS`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛡️ 02 — ABHAYA
@@ -130,10 +142,13 @@ A safety application concept exploring technology-assisted emergency support.
 - Voice distress detection
 - Computer vision
 
+**Focus:** AI and mobile development.
+
 `AI` `FLUTTER` `COMPUTER VISION`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -141,7 +156,7 @@ A safety application concept exploring technology-assisted emergency support.
 
 **AI-Powered Tourist Guide**
 
-A mobile application concept for intelligent travel discovery.
+An intelligent tourism application concept.
 
 **Features**
 - AI recommendations
@@ -149,9 +164,12 @@ A mobile application concept for intelligent travel discovery.
 - Weather information
 - Travel discovery
 
+**Focus:** Flutter and intelligent applications.
+
 `FLUTTER` `DART` `AI`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚙️ 04 — MECHANICAL DESIGN LAB
@@ -166,6 +184,8 @@ A growing collection of mechanical design experiments.
 - Engineering drawings
 - Product design
 
+**Focus:** CAD and mechanical engineering.
+
 `SOLIDWORKS` `CAD` `DESIGN`
 
 </td>
@@ -174,17 +194,19 @@ A growing collection of mechanical design experiments.
 
 ---
 
+<!-- ============== GITHUB STATS ============== -->
+
 <div align="center">
 
 # 📡 GITHUB TRANSMISSION
 
 *My development activity and open-source journey.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=100817&title_color=FF2E93&icon_color=B84CFF&text_color=F8D9EC&ring_color=FF2E93&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shruti060805-hash&show_icons=true&hide_border=true&bg_color=100817&title_color=FF2E93&icon_color=B84CFF&text_color=F8D9EC&ring_color=FF2E93&include_all_commits=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=100817&title_color=FF2E93&text_color=F8D9EC" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti060805-hash&layout=compact&hide_border=true&bg_color=100817&title_color=FF2E93&text_color=F8D9EC" width="49%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=100817&ring=FF2E93&fire=B84CFF&currStreakLabel=FF77B7&sideLabels=FF77B7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA5C9" width="80%"/>
 
@@ -192,21 +214,25 @@ A growing collection of mechanical design experiments.
 
 ---
 
+<!-- ============== CONTRIBUTION SNAKE ============== -->
+
 <div align="center">
 
 # 🐍 THE CONTRIBUTION MATRIX
 
-<img src="https://raw.githubusercontent.com/shruti060805-hash/shruti060805-hash/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/shruti060805-hash/shruti060805-hash/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
 ---
 
+<!-- ============== LEARNING ============== -->
+
 <div align="center">
 
 # 🌌 CURRENTLY EXPLORING
 
-| Domain | Learning Path |
+| DOMAIN | LEARNING PATH |
 |:---|:---|
 | Mechanical Design | Advanced SolidWorks |
 | Simulation | ANSYS Mechanical |
@@ -218,6 +244,8 @@ A growing collection of mechanical design experiments.
 </div>
 
 ---
+
+<!-- ============== CONNECT ============== -->
 
 <div align="center">
 
