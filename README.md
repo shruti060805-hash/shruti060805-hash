@@ -206,7 +206,7 @@ A growing collection of mechanical design experiments.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=100817&ring=FF2E93&fire=B84CFF&currStreakLabel=FF77B7&sideLab
+
 <!-- NEON PINK GITHUB STATISTICS -->
 
 <h2 align="center">📊 DEVELOPMENT STATISTICS</h2>
