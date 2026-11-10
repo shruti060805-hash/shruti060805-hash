@@ -1,148 +1,172 @@
-<!-- ================================================== -->
-<!--             VERDANT ENGINEERING                  -->
-<!-- ================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243C2E,50:526B50,100:9AA889&height=210&section=header&text=SHRUTI%20KUMARI&fontSize=48&fontColor=F1EAD8&fontAlignY=38&desc=MECHANICAL%20ENGINEERING%20%7C%20ROBOTICS%20%7C%20INNOVATION&descSize=13&descAlignY=58&descColor=E5E5D2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:100817,30:29102F,65:8E24AA,100:FF2E93&text=SHRUTI%20KUMARI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20THE%20FUTURE%20%7C%20BEYOND%20THE%20ORDINARY&descSize=13&descAlignY=60&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2800&pause=900&color=FF2E93&center=true&vCenter=true&width=850&lines=MECHANICAL+ENGINEERING+STUDENT;ROBOTICS+%26+AUTOMATION+ENTHUSIAST;EXPLORING+AI+%26+INTELLIGENT+SYSTEMS;DESIGNING.+BUILDING.+INNOVATING." alt="Animated title"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=21&pause=1200&color=71866A&center=true&vCenter=true&width=650&lines=Engineering+with+curiosity+%F0%9F%8C%BF;Designing+machines%2C+exploring+intelligence+%E2%9A%99%EF%B8%8F;Learning+robotics+one+experiment+at+a+time+%F0%9F%A4%96;Building+ideas+into+reality+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://img.shields.io/badge/STATUS-ENGINEERING%20IN%20PROGRESS-FF2E93?style=for-the-badge&labelColor=100817"/>
+<img src="https://img.shields.io/badge/FOCUS-ROBOTICS-9D4EDD?style=for-the-badge&labelColor=100817"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF77B7?style=for-the-badge&labelColor=100817"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/shruti060805-hash">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-243C2E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Mechanical%20Engineering-71866A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Interest-Robotics-B48760?style=for-the-badge"/>
+**Welcome to my digital engineering universe.**
+
+*Where mechanical systems meet intelligent technology.*
 
 </div>
 
 ---
 
-## 🌿 ABOUT ME
+<div align="center">
+
+# ✦ THE ENGINEER BEHIND THE CODE ✦
+
+</div>
+
+I'm **Shruti Kumari**, a Mechanical Engineering student fascinated by machines, intelligent systems, robotics and the technology shaping our future.
+
+I explore engineering through hands-on projects, programming, CAD modelling and experimentation.
 
 ```python
-class Engineer:
-    def __init__(self):
-        self.name = "Shruti Kumari"
-        self.field = "Mechanical Engineering"
-        self.interests = [
-            "Robotics",
-            "Mechanical Design",
-            "Artificial Intelligence",
-            "Automation",
-            "Intelligent Systems"
-        ]
-        self.current_goal = "Build things that solve real problems"
+class Shruti:
+    name = "Shruti Kumari"
+    discipline = "Mechanical Engineering"
 
-    def philosophy(self):
-        return "Learn. Design. Build. Test. Improve."
+    interests = [
+        "Mechanical Design",
+        "Robotics & Automation",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Intelligent Systems"
+    ]
+
+    mindset = "Curiosity > Complexity"
+
+    def build(self):
+        return "Ideas transformed into engineering solutions."
 ```
 
-I'm a Mechanical Engineering student fascinated by the intersection of physical machines and intelligent technology.
-
-I enjoy exploring how engineering concepts can become practical solutions through design, programming, experimentation, and innovation.
-
-**My interests:** Mechanical systems | Robotics | CAD | AI/ML | Automation
-
 ---
-
-## ⚙️ ENGINEERING TOOLBOX
 
 <div align="center">
 
-### Mechanical Design & Engineering
+# ⚡ TECHNICAL UNIVERSE
 
-<img src="https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fusion%20360-FF8C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
-
-### Programming & Development
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-### Robotics & Intelligent Systems
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-71866A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-B48760?style=for-the-badge"/>
+*Tools, technologies and concepts I'm exploring.*
 
 </div>
 
+### ⚙️ Mechanical Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/SolidWorks-FF2E93?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-9D4EDD?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-FF77B7?style=for-the-badge&logo=autodesk&logoColor=black"/>
+<img src="https://img.shields.io/badge/MATLAB-FF2E93?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### 🤖 Robotics & Embedded Systems
+
+<p align="center">
+<img src="https://img.shields.io/badge/Arduino-9D4EDD?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS%202-FF2E93?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-FF77B7?style=for-the-badge"/>
+</p>
+
+### 💻 Programming & AI
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FF2E93?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-9D4EDD?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-FF77B7?style=for-the-badge&logo=dart&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FF2E93?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF77B7?style=for-the-badge"/>
+</p>
+
 ---
 
-## 🚀 ENGINEERING PROJECT LAB
+<div align="center">
+
+# 🚀 PROJECTS IN MY ORBIT
+
+*Engineering ideas moving from concept to reality.*
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Line Following Robot
+### 🤖 01 — LINE FOLLOWER ROBOT
 
-An autonomous robot designed to follow a predefined path using infrared reflectance sensors.
+**Autonomous Navigation**
 
-**Components**
+An Arduino-based robot designed to detect and follow a predefined path.
+
+**Hardware**
 - Arduino Nano
 - QTR-8RC sensor
 - TB6612FNG motor driver
 - N20 motors
 
-**Focus:** Embedded systems and autonomous navigation.
+`ROBOTICS` `EMBEDDED SYSTEMS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ ABHAYA
+### 🛡️ 02 — ABHAYA
 
-An AI-assisted women safety application concept.
+**Intelligent Women Safety System**
 
-**Features being explored**
+A safety application concept exploring technology-assisted emergency support.
+
+**Features**
 - SOS assistance
 - Location sharing
 - Voice distress detection
 - Computer vision
 
-**Focus:** AI, mobile development and safety technology.
+`AI` `FLUTTER` `COMPUTER VISION`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 Smart Explore
+### 🌐 03 — SMART EXPLORE
 
-An intelligent tourist guide application.
+**AI-Powered Tourist Guide**
 
-**Features being explored**
-- AI travel recommendations
+A mobile application concept for intelligent travel discovery.
+
+**Features**
+- AI recommendations
 - Hidden destinations
 - Weather information
 - Travel discovery
 
-**Focus:** Flutter and intelligent applications.
+`FLUTTER` `DART` `AI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Mechanical Design Lab
+### ⚙️ 04 — MECHANICAL DESIGN LAB
 
-A growing collection of mechanical CAD experiments.
+**Digital Engineering Workshop**
 
-**Areas**
-- 3D modelling
-- Engineering drawings
+A growing collection of mechanical design experiments.
+
+**Exploring**
+- 3D CAD modelling
 - Mechanical assemblies
+- Engineering drawings
 - Product design
 
-**Focus:** CAD and mechanical engineering.
+`SOLIDWORKS` `CAD` `DESIGN`
 
 </td>
 </tr>
@@ -150,58 +174,69 @@ A growing collection of mechanical CAD experiments.
 
 ---
 
-## 📊 GITHUB ACTIVITY
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=243C2E&title_color=E5E5D2&icon_color=B7B99A&text_color=E5E5D2&include_all_commits=true" />
+# 📡 GITHUB TRANSMISSION
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti060805-hash&layout=compact&hide_border=true&bg_color=243C2E&title_color=E5E5D2&text_color=E5E5D2" />
+*My development activity and open-source journey.*
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=100817&title_color=FF2E93&icon_color=B84CFF&text_color=F8D9EC&ring_color=FF2E93&include_all_commits=true" width="49%"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=243C2E&ring=B7B99A&fire=B48760&currStreakLabel=E5E5D2&sideLabels=E5E5D2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA889" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=100817&title_color=FF2E93&text_color=F8D9EC" width="49%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shruti060805-hash&theme=dark&hide_border=true&background=100817&ring=FF2E93&fire=B84CFF&currStreakLabel=FF77B7&sideLabels=FF77B7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA5C9" width="80%"/>
 
 </div>
 
 ---
 
-## 🐍 MY CONTRIBUTION JOURNEY
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shruti060805-hash//output/github-contrshruti060805-hashibution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%"/>
+# 🐍 THE CONTRIBUTION MATRIX
+
+<img src="https://raw.githubusercontent.com/shruti060805-hash/shruti060805-hash/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 
 </div>
 
 ---
 
-## 🌱 CURRENTLY EXPLORING
+<div align="center">
 
-- ⚙️ Advanced mechanical modelling with SolidWorks
-- 🤖 Robotics and ROS 2
-- 🔬 Engineering simulation with ANSYS
-- 🧠 Machine Learning and Computer Vision
-- 💻 Python for engineering applications
+# 🌌 CURRENTLY EXPLORING
+
+| Domain | Learning Path |
+|:---|:---|
+| Mechanical Design | Advanced SolidWorks |
+| Simulation | ANSYS Mechanical |
+| Robotics | ROS 2 |
+| Programming | Python |
+| Intelligent Systems | Machine Learning & Computer Vision |
+| Engineering | Automation & Control |
+
+</div>
 
 ---
 
-## 🤝 CONNECT WITH ME
-
 <div align="center">
+
+# ✧ CONNECT TO MY UNIVERSE ✧
 
 <a href="https://github.com/shruti060805-hash">
-<img src="https://img.shields.io/badge/GitHub-243C2E?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FF2E93?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-71866A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shruti-kumari-b03636385/">
+<img src="https://img.shields.io/badge/LINKEDIN-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**"Rooted in curiosity. Driven by engineering. Growing through innovation."** 🌿
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=3000&pause=1000&color=FF77B7&center=true&vCenter=true&width=600&lines=THE+FUTURE+IS+BUILT%2C+NOT+PREDICTED.;KEEP+EXPLORING.+KEEP+ENGINEERING." alt="Closing animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AA889,50:526B50,100:243C2E&height=110&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FF2E93,50:8E24AA,100:100817" width="100%"/>
 
 </div>
